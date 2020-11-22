@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T00:12:36.077Z" agent="5.0 (Windows)" etag="G9FZ59EjKc3G6fitj5X1" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-22T00:18:45.316Z" agent="5.0 (Windows)" etag="QgkoBJZ3_65hsSr6tJOi" version="13.10.0" type="github">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
     <mxGraphModel dx="868" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -267,7 +267,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZB90Tx9Z-7gOlVwjssWi-48" value="Antes del viaje" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="281.25" width="90" height="27.5" as="geometry" />
+          <mxGeometry x="1050" y="282.5" width="90" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="ZB90Tx9Z-7gOlVwjssWi-49" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ZB90Tx9Z-7gOlVwjssWi-48" target="ZB90Tx9Z-7gOlVwjssWi-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -287,7 +287,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZB90Tx9Z-7gOlVwjssWi-51" value="Despues del viaje" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ZB90Tx9Z-7gOlVwjssWi-51" value="Protocolo de seguridad" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1220" y="282.5" width="120" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="z95lpdW4YSip6e01Qj9j-1" value="Registrar Bus" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
